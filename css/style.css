@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Whisper&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Playfair+Display:ital,wght@0,600;1,600&family=Zain&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Playfair+Display:ital,wght@0,600;1,600&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Zain&display=swap');
+
+.zainText{
+    font-family: "Zain", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.titleroboto{
+        font-family: "Roboto", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+}
+
+.backgroundNav {
+    background-image: url('../images/vektorflat.jpg');
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center; 
+    height: 885px;
+}
+
+.backgroundContent {
+    background-image: url('../images/Shiny3.svg');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    height: 1200px;
+}
+
+.backgroundDevelopment {
+    background-image: url('../images/development.jpg');
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 800px;
+}
+
+.backgroundFooter {
+    background-image: url('../images/Wave.svg');
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 410px;
+}
